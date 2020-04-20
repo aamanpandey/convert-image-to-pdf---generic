@@ -1,0 +1,6 @@
+This python code combines all the images located in a file to a pdf file. 
+
+Steps:
+-Paste the python file where all the photos to be compbined is located
+-Run the python file you just pasted 
+-The code will create a pdf file
